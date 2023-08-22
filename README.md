@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Consuelo Garrido Abedrapo, a bootcamp graduate trying to start a new career as a Fullstack Developer
-- 👀 I’m interested in several subjects like programming, music, cinema and science. All have in common creativity, curiosity an technology, best        combination ever!!
+- 👋 Hello, I'm Consuelo Garrido Abedrapo, a bootcamp graduate now working as a Fullstack Developer.
+- 👀 I’m interested in several subjects like programming, music, cinema and science. All have in common creativity, curiosity an technology, best combination ever!!
 - 🌱 I’m currently learning Javascript and RoR
 - 💞️ I’m looking to collaborate on projects that allow me to show my knoledge and to also challenge me to learn more
 - 📫 Yo can reach me by:
